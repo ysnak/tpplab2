@@ -1,0 +1,5 @@
+.gradle
+.mvn
+.vs
+.vscode
+/target
